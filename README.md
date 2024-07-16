@@ -23,6 +23,10 @@ The rules are simple:
 4. The user score will be displayed if the user wins.
 5. You can play multiple rounds and choose to play again or exit the game.
 
+## Code's Output
+
+![Game Recording](output.gif)
+
 ## How to Compile and Run
 
 1. Save the code to a file on your local computer.
