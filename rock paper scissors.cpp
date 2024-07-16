@@ -43,7 +43,7 @@ int main()
     cout <<"\n    Welcome to Rock, Paper, Scissors Game!   " << endl;
     cout<<"\t(Press 'x' to exit)"<<endl;
     
-    cout<<"\n\tYou got three choices:";
+    cout<<"\n\tYou have three choices:";
     cout<<"\n\t\t~ Rock";
     cout<<"\n\t\t~ Paper";
     cout<<"\n\t\t~ Scissors"<<endl;
