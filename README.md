@@ -25,7 +25,7 @@ The rules are simple:
 
 ## Code's Output
 
-![Game Recording](output.gif)
+![Game Recording](Output.gif)
 
 ## How to Compile and Run
 
